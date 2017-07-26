@@ -37,3 +37,5 @@ function hoverOut(evt) {
 }
 
 console.log(new RS())
+
+console.log(new RS())
